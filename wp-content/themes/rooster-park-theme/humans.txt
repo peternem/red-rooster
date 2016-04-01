@@ -1,0 +1,22 @@
+/* TEAM */
+	Developer: MJPeternell
+	Contact:   mjpeternell@gmail.com
+	URI:       
+
+/* THANKS */
+	Template Design: 10up
+	URI:             http://10up.com
+	Twitter:         @10up
+	
+	Template Design: Eric Mann
+	URI:             http://eamann.com
+	Twitter:         @ericmann
+	
+	Starter Theme: Automattic
+	URI:		   http://automattic.com
+	Twitter:       @automattic
+	
+/* SITE */
+	Created:  2016-04-01
+	Template: https://github.com/10up/grunt-wp-theme
+	Template: https://github.com/Automattic/_s
